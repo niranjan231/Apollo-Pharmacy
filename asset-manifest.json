@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/niranjan231/Apollo-Pharmacy.git/static/css/main.6f723b7a.css",
+    "main.js": "/niranjan231/Apollo-Pharmacy.git/static/js/main.9a338d92.js",
+    "static/js/453.ed3810f9.chunk.js": "/niranjan231/Apollo-Pharmacy.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/niranjan231/Apollo-Pharmacy.git/index.html",
+    "main.6f723b7a.css.map": "/niranjan231/Apollo-Pharmacy.git/static/css/main.6f723b7a.css.map",
+    "main.9a338d92.js.map": "/niranjan231/Apollo-Pharmacy.git/static/js/main.9a338d92.js.map",
+    "453.ed3810f9.chunk.js.map": "/niranjan231/Apollo-Pharmacy.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f723b7a.css",
+    "static/js/main.9a338d92.js"
+  ]
+}
